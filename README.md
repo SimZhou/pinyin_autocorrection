@@ -43,3 +43,4 @@ This function splits a continuous sequence of pinyin inputs into separate tokens
 
 The algorithm under the hood is basically *edit distance* + *probabilistic model* + *n-gram*. 
 
+Also, *dynamic programming* is used for pinyin split function. 
