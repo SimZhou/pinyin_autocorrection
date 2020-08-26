@@ -4,6 +4,8 @@ This is a simple pinyin autocorrection resolution.
 
 This repository is for learning and communicating purpose only. 
 
+![](https://github.com/SimZhou/pinyin_autocorrection/blob/master/doc/Pinyin%20Autocorrection.png?raw=true)
+
 ## Functions
 
 #### 1. Pinyin correction
